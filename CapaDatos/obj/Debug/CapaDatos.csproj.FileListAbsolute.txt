@@ -1,0 +1,18 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Saul Vallecillo\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
